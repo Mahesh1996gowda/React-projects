@@ -1,13 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+// import App from './App';
+// import Img from './Img';
 import reportWebVitals from './reportWebVitals';
+import CounterUsingFB from './CounterUsingFB';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
+    {/* <Img/> */}
+    <CounterUsingFB/>
   </React.StrictMode>
 );
 
