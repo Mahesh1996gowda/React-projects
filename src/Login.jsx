@@ -17,7 +17,7 @@ const Login = () => {
         let LocalPassword=localStorage.getItem("password")
 e.preventDefault();
 if(Localusername==username&&LocalPassword==password){
-navigate("./home")
+navigate("/home")
 }else{
     navigate("./login")
 }

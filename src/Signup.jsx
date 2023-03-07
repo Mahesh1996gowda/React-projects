@@ -15,7 +15,7 @@ const Signup = () => {
         e.preventDefault();
         localStorage.setItem("username",username)
         localStorage.setItem("password",password)
-        navigate("./login")
+        navigate("/login")
     }
   return (
     <div style={{width:"500px", marginLeft:"200px",marginTop:"100px"}}>
