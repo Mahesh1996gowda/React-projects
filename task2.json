@@ -1,0 +1,72 @@
+[ {
+   "id":1,
+    "username":"Mahesh Gowda",
+   "name":"mahi",
+   "email":"mahi@gmail.com",
+   "phone":9113859707,
+   "address":"kunigal" 
+    },
+    {
+        "id":2,
+         "username":"Nagesh Gowda",
+        "name":"Nagesh",
+        "email":"nagesh@gmail.com",
+        "phone":9113859706,
+        "address":"DGpalya" 
+         },
+         {
+            "id":3,
+             "username":"Kumar",
+            "name":"kumi",
+            "email":"kumi@gmail.com",
+            "phone":8105942138,
+            "address":"mysore" 
+             },
+             {
+                "id":4,
+                 "username":"Shashi kumar",
+                "name":"shashi",
+                "email":"shashi@gmail.com",
+                "phone":8105942136,
+                "address":"Tumkur" 
+                 },
+                 {
+                    "id":5,
+                     "username":"Mayur Gowda",
+                    "name":"Mayur",
+                    "email":"mayur@gmail.com",
+                    "phone":7760248131,
+                    "address":"Bangalore" 
+                     },
+                     {
+                        "id":7,
+                         "username":"Kushi Gowda",
+                        "name":"kushi",
+                        "email":"kushi@gmail.com",
+                        "phone":9113859703,
+                        "address":"Bangalore" 
+                         },
+                         {
+                            "id":8,
+                             "username":"Dushya Gowda",
+                            "name":"dushi",
+                            "email":"dushi@gmail.com",
+                            "phone":9113859709,
+                            "address":"chikkagollarahatti" 
+                             },
+                             {
+                                "id":9,
+                                 "username":"Hitesh Gowda",
+                                "name":"Hithu",
+                                "email":"hithi@gmail.com",
+                                "phone":9113859704,
+                                "address":"Bangalore" 
+                                 },
+                                 {
+                                    "id":10,
+                                     "username":"Shiva Kumar",
+                                    "name":"shivu",
+                                    "email":"shivu@gmail.com",
+                                    "phone":9113859701,
+                                    "address":"Bangalore" 
+                                     }]
